@@ -40,15 +40,15 @@
 
 - 新增班级
 
-  <img src="README.assets/新增班级.png" alt="image-20210210163743820" style="zoom: 33%;" />
+  <img src="README.assets/新增班级.png" alt="新增班级" style="zoom: 33%;" />
 
 - 修改班级
 
-  ![image-20210211143652871](README.assets/修改班级.png)
+  ![修改班级](README.assets/修改班级.png)
 
 - 删除班级
 
-  ![image-20210211143718545](README.assets/删除班级.png)
+  ![删除班级](README.assets/删除班级.png)
 
 ### 学生管理
 
