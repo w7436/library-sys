@@ -40,7 +40,7 @@
 
 - 新增班级
 
-  <img src="README.assets/新增班级.png" alt="新增班级" style="zoom: 33%;" />
+  ![新增班级](https://github.com/w7436/library-sys/blob/master/README.assets/%E6%96%B0%E5%A2%9E%E7%8F%AD%E7%BA%A7.png)
 
 - 修改班级
 
