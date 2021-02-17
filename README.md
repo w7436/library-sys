@@ -40,7 +40,7 @@
 
 - 新增班级
 
-  ![新增班级](https://github.com/w7436/library-sys/blob/master/README.assets/%E6%96%B0%E5%A2%9E%E7%8F%AD%E7%BA%A7.png)
+  ![新增班级](README.assets/新增班级.png)
 
 - 修改班级
 
@@ -60,15 +60,15 @@
 
 + 借阅信息查询
 
-![借阅查询](README.assets\借阅查询.png)
+![借阅查询](README.assets/借阅查询.png)
 
 + 新增借阅信息
 
-![借阅新增](README.assets\借阅新增.png)
+![借阅新增](README.assets/借阅新增.png)
 
 + 修改借阅信息
 
-![借阅修稿](README.assets\借阅修改.png)
+![借阅修稿](README.assets/借阅修改.png)
 
 + 删除借阅信息
 
@@ -77,7 +77,7 @@
 ## 数据库设计
 ### 数据库表关系图
 
-![数据库表关系](README.assets\数据库表关系.png)
+![数据库表关系](README.assets/数据库表关系.png)
 
 以上关系可见：
 
