@@ -68,7 +68,7 @@
 
 + 修改借阅信息
 
-![借阅修稿](README.assets/借阅修改.png)
+![借阅修改](README.assets/借阅修改.png)
 
 + 删除借阅信息
 
